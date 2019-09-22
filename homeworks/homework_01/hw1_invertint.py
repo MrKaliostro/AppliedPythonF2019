@@ -10,4 +10,3 @@ def reverse(number):
     :return: инвертированное число
     '''
     return str(number)[::-1]
-    raise NotImplementedError
